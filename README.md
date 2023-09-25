@@ -23,21 +23,6 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 - See all testimonials in a horizontal slider
-- Receive an error message when the newsletter sign up `form` is submitted if:
-  - The `input` field is empty
-  - The email address is not formatted correctly
-
-### Screenshot
-
-- Desktop View (1440px)
-
-  - Full View
-
-  ![Desktop View](image.png)
-
-  - Closer View
-
-  ![Alt text](image-1.png)
 
 ### Links
 
@@ -49,10 +34,10 @@ Users should be able to:
 ### Built with
 
 - HTML5
+- TailwindCSS
 - CSS3
 - CSS Flexbox
-- CSS Grid
-- Desktop-first workflow
+- Mobile-first workflow
 - Javascript - for email validation and submission
 
 ### What I learned
