@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [FrontendMentor URL](https://www.frontendmentor.io/solutions/newsletter-signup-form-with-success-message-P9F2tPNxl_)
-- Live Site URL: [Netlify URL](https://newsletter-signup-fe-mentor.netlify.app/)
+- Solution URL: [FrontendMentor URL](https://www.frontendmentor.io/solutions/manage-landing-page-with-tailwindcss-MV-_1C415y)
+- Live Site URL: [Netlify URL](https://manage-landing-page-fe-mentor.netlify.app/)
 
 ## My process
 
